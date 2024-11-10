@@ -1,2 +1,2 @@
 # to-do
-PyQT productivity application
+PyQt productivity application
